@@ -1,4 +1,3 @@
-Đây là bài thực hành 01 của môn ngôn ngữ lập trình C#
 Đây là phần mềm xem phim với các chức năng:
 - banner quảng cáo, khi click vào thì dẫn đến website URL tương ứng
 - Slider Phim
